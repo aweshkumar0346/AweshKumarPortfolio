@@ -34,7 +34,7 @@ export default function HeroVisual() {
           <span className="ic">☕</span><div>Java &amp; Spring Boot<small>Backend engineer</small></div>
         </div>
         <div className="chip-f chip-b" aria-hidden="true">
-          <span className="ic">🏦</span><div>Temenos T24<small>Infinity · Fabric</small></div>
+          <span className="ic">🏦</span><div>Microservices & Cloud<small>Kafka · Docker · Kubernetes</small></div>
         </div>
       </div>
       <ApiPanel />
